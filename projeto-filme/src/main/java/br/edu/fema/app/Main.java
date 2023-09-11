@@ -1,12 +1,3 @@
-//Pedro Paulo Souza de Oliveira - RA: 2211550806
-//Raquel Pimentel Ramos - RA: 2211550430
-
-/*Obs: Algumas coisas eu peguei do StackOverflow e do chatGPT, por exemplo: formatação da descrição quebrada (pura estetica)
-no toString da classe dados financeiros eu pedi ajuda ao chat, no hashmap e no id autoincremativo, usei apenas para tirar
-duvidas e mediaDoFilme a propria IDE me ajudou
- */
-
-
 package br.edu.fema.app;
 
 import br.edu.fema.models.*;
